@@ -7,7 +7,7 @@ Interactive Photo Gallery Setup Instructions
 
 Clone the repository to your local machine:
 
-git clone<https://github.com/Jamura8/Challenger.git
+git clone<https://github.com/peacemu/Challengers.git
 
 Navigate to the project directory: cd interactive-photo-gallery Open the animalgallery.html file in your web browser to view the interactive photo gallery. 
 open the javascript.js file to see the interactive gallery structure, location and all. Approach HTML Structure: 
